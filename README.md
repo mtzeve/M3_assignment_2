@@ -19,5 +19,5 @@ We did two iterations of this example, where we changed the weight from 10 in th
 For our attention exercise, we decided to go with two sentences. One was“The crane is a majestic bird” and the second was “He used the crane to lift the heavy machinery”. The reason for this choice was that “crane” is a polysemous word that has multiple meanings, which helps with demonstrating the functionality of attention.
 To visualize the attention weight we setup a heatmap, which visualizes which words in the sentenced are especially targeted by the attention mechanism. We decided to go with a heatmap that shows both sentences on each axis, which would allow us to be able to compare the attention weight between all the pair of tokens in both sentences. This was decided to be the way to visualize it because the heatmap would not become way too complex, as both sentences are kind of short.
 
-Dataset's (part 1) link: https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots 
-Dataset's (part 2) link: https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction?resource=download 
+Dataset (part 1) link: https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots 
+Dataset (part 2) link: https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction?resource=download 
